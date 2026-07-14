@@ -1,0 +1,45 @@
+{
+  "users": {
+    "6281359053674@s.whatsapp.net": {
+      "name": "Gus Slamet",
+      "totalChat": 5
+    },
+    "6281370859260@s.whatsapp.net": {
+      "name": "User",
+      "totalChat": 4
+    },
+    "62895415133939@s.whatsapp.net": {
+      "name": "ℓ",
+      "totalChat": 8
+    }
+  },
+  "groups": {
+    "6285645868974-1632284252@g.us": {
+      "access": false,
+      "antilink": false,
+      "welcome": {
+        "enabled": true,
+        "text": "welcome @user to @group!\ntime: @time"
+      },
+      "leave": {
+        "enabled": true,
+        "text": "goodbye @user from @group!\ntime: @time"
+      }
+    }
+  },
+  "settings": {
+    "self": false,
+    "autoread": true,
+    "queue": true,
+    "accessOnly": false
+  },
+  "plugins": {
+    "menu": {
+      "total": 2,
+      "success": 2,
+      "error": 0,
+      "firstUsed": 1783987400115,
+      "lastUsed": 1783987466472
+    }
+  }
+}
